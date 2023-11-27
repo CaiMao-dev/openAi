@@ -1,0 +1,7 @@
+[2023/11/27 16:39:28.987 +08:00] [INFO] [logutil/logutil.go:163] ["Log directory"] [configDir=/Users/maocai/Documents/openAi/test_milvus/logs]
+[2023/11/27 16:39:28.987 +08:00] [INFO] [logutil/logutil.go:164] ["Set log file to "] [path=standalone-1.log]
+[2023/11/27 16:39:28.987 +08:00] [INFO] [tracer/tracer.go:71] ["Init tracer finished"] [Exporter=stdout]
+[2023/11/27 16:39:29.003 +08:00] [INFO] [sessionutil/session_util.go:901] ["register session success"] [role=proxy] [key=by-dev/meta/session/proxy-1]
+[2023/11/27 16:40:12.502 +08:00] [INFO] [gc/gc_tuner.go:90] ["GC Tune done"] ["previous GOGC"=200] ["heapuse "=28] ["total memory"=12473] ["next GC"=63] ["new GOGC"=200] [gc-pause=64.125µs] [gc-pause-end=1701074412499791000]
+[2023/11/27 16:41:11.422 +08:00] [INFO] [gc/gc_tuner.go:90] ["GC Tune done"] ["previous GOGC"=200] ["heapuse "=52] ["total memory"=12421] ["next GC"=65] ["new GOGC"=200] [gc-pause=185.542µs] [gc-pause-end=1701074471420686000]
+[2023/11/27 16:42:11.425 +08:00] [INFO] [gc/gc_tuner.go:90] ["GC Tune done"] ["previous GOGC"=200] ["heapuse "=58] ["total memory"=12406] ["next GC"=63] ["new GOGC"=200] [gc-pause=409.208µs] [gc-pause-end=1701074531424023000]

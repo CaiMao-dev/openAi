@@ -1,0 +1,22 @@
+2023/11/27 16:39:26 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+Set runtime dir at /run/milvus failed, set it to /tmp/milvus directory
+
+    __  _________ _   ____  ______    
+   /  |/  /  _/ /| | / / / / / __/    
+  / /|_/ // // /_| |/ / /_/ /\ \    
+ /_/  /_/___/____/___/\____/___/     
+
+Welcome to use Milvus!
+Version:   v2.3.3-lite
+Built:     Mon Nov 13 15:52:57 UTC 2023
+GitCommit: f2e972abb
+GoVersion: go version go1.21.4 darwin/arm64
+
+open pid file: /tmp/milvus/standalone.pid
+lock pid file: /tmp/milvus/standalone.pid
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I20231127 16:39:27.394865 1413516 knowhere_config.cc:94] [KNOWHERE][SetBlasThreshold][] Set faiss::distance_compute_blas_threshold to 16384
+I20231127 16:39:27.394842 1413519 knowhere_config.cc:94] [KNOWHERE][SetBlasThreshold][] Set faiss::distance_compute_blas_threshold to 16384
+I20231127 16:39:27.394907 1413516 knowhere_config.cc:105] [KNOWHERE][SetEarlyStopThreshold][] Set faiss::early_stop_threshold to 0
+I20231127 16:39:27.398203 1413519 knowhere_config.cc:105] [KNOWHERE][SetEarlyStopThreshold][] Set faiss::early_stop_threshold to 0
+I20231127 16:39:27.398321 1413516 knowhere_config.cc:53] [KNOWHERE][ShowVersion][] Knowhere Version: v2.2.2
